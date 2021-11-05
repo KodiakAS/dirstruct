@@ -5,8 +5,8 @@ Example1: copy structure of `root` to `newdir`
     dirstruct.sh copy root newdir
 
     root
+    ├── .foo
     ├── dir1
-    │   ├── .foo
     │   ├── subdir1
     │   └── subdir2
     └── dir2
